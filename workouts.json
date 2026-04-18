@@ -1,0 +1,22 @@
+[
+    {
+        "workout_id": 12334,
+        "name": "anik",
+        "category": "Cardio",
+        "duration": 2,
+        "difficulty": "Easy",
+        "calories": 150,
+        "day": "1",
+        "completed": true
+    },
+    {
+        "workout_id": 2344,
+        "name": "dfeffe",
+        "category": "Cardio",
+        "duration": 50,
+        "difficulty": "Easy",
+        "calories": 1000,
+        "day": "2",
+        "completed": false
+    }
+]
